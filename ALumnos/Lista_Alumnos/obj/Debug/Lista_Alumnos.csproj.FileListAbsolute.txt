@@ -1,0 +1,6 @@
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\bin\Debug\Lista_Alumnos.exe.config
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\bin\Debug\Lista_Alumnos.exe
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\bin\Debug\Lista_Alumnos.pdb
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\obj\Debug\Lista_Alumnos.csprojResolveAssemblyReference.cache
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\obj\Debug\Lista_Alumnos.exe
+D:\SEMESTRE 3 (UNAB)\Lenguajes de programacion\Taller_Listas\Lista_Alumnos\Lista_Alumnos\obj\Debug\Lista_Alumnos.pdb
